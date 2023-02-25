@@ -55,3 +55,5 @@ Q21 Lazy loading ?
 Q22 How to manage nested routes in terms of role based routing?
 
 Q23 Ask to interview :: What are roles, project etc.
+
+Q24 What is Javascript Hoisting?
